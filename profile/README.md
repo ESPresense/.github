@@ -4,7 +4,7 @@ ESPresense turns inexpensive ESP32 boards into a home-wide indoor positioning sy
 
 ### Who it's for
 - **Homeowners** who want presence-based automation that actually works room-to-room.
-- **Home Assistant users** looking to replace flaky GPS/BLE-proximity hacks with real indoor positions.
+- **Home Assistant users** who want room-level presence instead of just home/away — multiple nodes working together, not one sensor guessing near/far.
 - **Makers and tinkerers** building on top — custom enclosures, new device classes, accuracy research.
 
 ### Flagship repos
