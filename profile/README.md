@@ -1,6 +1,6 @@
 # ESPresense
 
-ESPresense turns inexpensive ESP32 boards into a home-wide indoor positioning system. Mount a few nodes around the house, run the companion service, and Home Assistant can tell which room a phone, watch, or BLE tag is in — accurately enough for per-room automation, fall response, or elopement alerts. Open-source firmware, open-source server, open data.
+ESPresense turns inexpensive ESP32 boards into a home-wide indoor positioning system. Mount a few nodes around the house, run the companion service, and Home Assistant can tell which room a phone, watch, or BLE tag is in. Open-source firmware, open-source server, open data.
 
 ### Who it's for
 - **Homeowners** who want presence-based automation that actually works room-to-room.
