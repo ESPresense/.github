@@ -20,3 +20,6 @@ ESPresense turns inexpensive ESP32 boards into a home-wide indoor positioning sy
 
 ### Contributing
 PRs welcome across every flagship repo. Start with [`CONTRIBUTING.md`](https://github.com/ESPresense/ESPresense/blob/main/CONTRIBUTING.md) on the firmware repo, then say hi on [Discord](https://discord.gg/jbqmn7V6n6) so we know what you're working on.
+
+### Star History
+[![Star History Chart](https://api.star-history.com/svg?repos=ESPresense/ESPresense,ESPresense/ESPresense-companion&type=Date)](https://star-history.com/#ESPresense/ESPresense&ESPresense/ESPresense-companion&Date)
